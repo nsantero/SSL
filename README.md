@@ -1,4 +1,4 @@
-# SSL
+# Sintaxis y Semantica de los Lenguajes de Programación
 
 Nicolás A. Santero
 
