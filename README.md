@@ -1,6 +1,6 @@
 # Sintaxis y Semantica de los Lenguajes de Programación
 
-Nicolás A. Santero
+## Nicolás A. Santero
 
-Curso K2051
-Legajo 168118-7
+* Curso K2051
+* Legajo 168118-7
